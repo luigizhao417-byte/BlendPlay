@@ -1,0 +1,5 @@
+# 项目说明
+
+从既有BlendPlay通用运行器独立整理，开发过程使用了AI编程辅助。原插件的作者字段标注为Codex；本独立项目维护署名为BlendPlay contributors。
+
+此项目不隶属于Blender Foundation、Roblox或DOORS的创作团队，不包含或授权其游戏内容。GPL许可适用于本仓库所包含的源码文件，详见LICENSE。
